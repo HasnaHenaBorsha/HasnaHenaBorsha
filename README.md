@@ -17,7 +17,11 @@ Currently pursuing a degree in Mathematics, I'm passionate about data, leadershi
 With hands-on experience across tech, management, and activism — I strive to grow, give, and lead.
 
 ---
+## 🔗 Website
 
+Visit my personal portfolio site: [borsha](https://borsha.pages.dev/)
+
+---
 ### 🚀 What I Do
 
 - 🔢 Analyze data to uncover actionable insights  
