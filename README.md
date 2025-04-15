@@ -31,9 +31,9 @@ With hands-on experience across tech, management, and activism — I strive to g
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-HasnaHenaBorsha-blue?style=flat&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-@hasna_hena-1DA1F2?style=flat&logo=twitter"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-HasnaHenaBorsha-black?style=flat&logo=github"></a>
+  <a href="HasnaHenaBorsha"><img src="https://img.shields.io/badge/LinkedIn-HasnaHenaBorsha-blue?style=flat&logo=linkedin"></a>
+  <a href="HasnaHenaBorsha"><img src="https://img.shields.io/badge/Twitter-@hasna_hena-1DA1F2?style=flat&logo=twitter"></a>
+  <a href="HasnaHenaBorsha"><img src="https://img.shields.io/badge/GitHub-HasnaHenaBorsha-black?style=flat&logo=github"></a>
 </p>
 
 ---
