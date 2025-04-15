@@ -28,13 +28,27 @@ With hands-on experience across tech, management, and activism — I strive to g
 
 ---
 
+
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="HasnaHenaBorsha"><img src="https://img.shields.io/badge/LinkedIn-HasnaHenaBorsha-blue?style=flat&logo=linkedin"></a>
-  <a href="HasnaHenaBorsha"><img src="https://img.shields.io/badge/Twitter-@hasna_hena-1DA1F2?style=flat&logo=twitter"></a>
-  <a href="HasnaHenaBorsha"><img src="https://img.shields.io/badge/GitHub-HasnaHenaBorsha-black?style=flat&logo=github"></a>
+  <a href="https://www.linkedin.com/in/hasnahenaborsha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-HasnaHenaBorsha-blue?style=flat&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/hasnahenaborsha" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@hasnahenaborsha-1DA1F2?style=flat&logo=twitter">
+  </a>
+  <a href="https://github.com/hasnahenaborsha" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-HasnaHenaBorsha-black?style=flat&logo=github">
+  </a>
+  <a href="https://instagram.com/hasnahenaborsha" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-HasnaHenaBorsha-E4405F?style=flat&logo=instagram">
+  </a>
+  <a href="https://facebook.com/hasnahenaborsha" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-HasnaHenaBorsha-1877F2?style=flat&logo=facebook">
+  </a>
 </p>
+
 
 ---
 
