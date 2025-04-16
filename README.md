@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    🎓 Mathematics Student at University of Rajshahi <br>
+    🎓student of Mathematics Student at University of Rajshahi <br>
     💡 Project Manager | Data Analyst | Leader | Public Speaker <br>
     🌱 Social Activist | Green Advocate | Lifelong Learner
   </em>
