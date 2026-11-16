@@ -1,68 +1,68 @@
-<h1 align="center">Hi there, I'm HasnaHena Borsha 👋</h1>
+<div align="center">
+
+# Hi, I'm Hasna Hena Borsha 👋
+
+### Mathematics Student · Data Enthusiast · Project Manager · Social Activist
+
+<p>
+  I turn ideas and data into meaningful action through analysis, leadership,
+  communication, and community work.
+</p>
+
+<p>
+  <a href="https://borsha.pages.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/hasnahenaborsha">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## About me
+
+I'm a Mathematics student at the University of Rajshahi with a passion for
+data, leadership, and sustainable development. I enjoy bringing structure to
+ambitious ideas, finding insights in information, and using my voice to help
+create positive change.
+
+- 🔢 I analyze data to uncover useful, actionable insights
+- 📊 I manage projects through clarity, planning, and collaboration
+- 🎤 I enjoy public speaking, debate, and community engagement
+- 🌱 I volunteer for climate action, education, and equity
+- 🤝 I'm open to meaningful projects and collaborations
+
+## Current focus
+
+```text
+Learning     Data analysis and visualization
+Building     My personal portfolio and practical projects
+Exploring    Sustainable development and social impact
+Growing      Leadership, communication, and global collaboration
+```
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HasnaHenaBorsha&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B" alt="Hasna Hena Borsha's GitHub statistics" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HasnaHenaBorsha&hide_border=true&theme=transparent&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=64748B&dates=64748B" alt="Hasna Hena Borsha's GitHub streak" />
+</div>
+
+## Connect with me
 
 <p align="center">
-  <em>
-    🎓student of Mathematics at University of Rajshahi <br>
-    💡 Project Manager | Data Analyst | Leader | Public Speaker <br>
-    🌱 Social Activist | Green Advocate | Lifelong Learner
-  </em>
+  <a href="https://www.linkedin.com/in/hasnahenaborsha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/hasnahenaborsha"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=x&logoColor=white" alt="Twitter" /></a>
+  <a href="https://instagram.com/hasnahenaborsha"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://facebook.com/hasnahenaborsha"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://github.com/HasnaHenaBorsha"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
----
+<div align="center">
 
-### 🌟 About Me
+_Thanks for visiting — feel free to explore, connect, or collaborate._
 
-I'm an enthusiastic multitasker who enjoys turning ideas into impact.  
-Currently pursuing a degree in Mathematics, I'm passionate about data, leadership, and sustainable development.  
-With hands-on experience across tech, management, and activism — I strive to grow, give, and lead.
-
----
-## 🔗 Website
-
-Visit my personal portfolio site: [borsha](https://borsha.pages.dev/)
-
----
-### 🚀 What I Do
-
-- 🔢 Analyze data to uncover actionable insights  
-- 📊 Manage projects with clarity and collaboration  
-- 💬 Engage in public speaking and debate  
-- 💚 Volunteer for community and climate action  
-- ✍️ Advocate for education and equity  
-
----
-
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/hasnahenaborsha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-HasnaHenaBorsha-blue?style=flat&logo=linkedin">
-  </a>
-  <a href="https://twitter.com/hasnahenaborsha" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@hasnahenaborsha-1DA1F2?style=flat&logo=twitter">
-  </a>
-  <a href="https://github.com/hasnahenaborsha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-HasnaHenaBorsha-black?style=flat&logo=github">
-  </a>
-  <a href="https://instagram.com/hasnahenaborsha" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-HasnaHenaBorsha-E4405F?style=flat&logo=instagram">
-  </a>
-  <a href="https://facebook.com/hasnahenaborsha" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-HasnaHenaBorsha-1877F2?style=flat&logo=facebook">
-  </a>
-</p>
-
-
----
-
-### 🧠 Current Focus
-
-- Building my personal portfolio website 💻  
-- Expanding skills in data visualization & public engagement 📈  
-- Collaborating on global learning platforms 🌍  
-
----
-
-📌 _Thanks for visiting my profile! Feel free to explore, connect, or collaborate._
-
+</div>
