@@ -47,7 +47,7 @@ Growing      Leadership, communication, and global collaboration
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HasnaHenaBorsha&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B" alt="Hasna Hena Borsha's GitHub statistics" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HasnaHenaBorsha&theme=github_dark" alt="Hasna Hena Borsha's GitHub statistics" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=HasnaHenaBorsha&hide_border=true&theme=transparent&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED&sideLabels=64748B&dates=64748B" alt="Hasna Hena Borsha's GitHub streak" />
 </div>
 
