@@ -63,6 +63,6 @@ Growing      Leadership, communication, and global collaboration
 
 <div align="center">
 
-_Thanks for visiting — feel free to explore, connect, or collaborate._
+_Thanks for visiting. Feel free to explore, connect, or collaborate._
 
 </div>
